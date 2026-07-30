@@ -1,0 +1,5 @@
+# Dependabot dependency ownership
+/go.mod @obot-platform/obot-backend
+/go.sum @obot-platform/obot-backend
+/tools/go.mod @obot-platform/obot-backend
+/tools/go.sum @obot-platform/obot-backend
